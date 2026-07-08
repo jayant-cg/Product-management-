@@ -1,0 +1,21 @@
+## Build outputs
+bin/
+obj/
+
+## Visual Studio IDE files
+.vs/
+*.user
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## User-specific files
+*.suo
+*.userprefs
+
+## Logs
+*.log
+
+## dotnet tool manifests (optional)
+.dotnet/
